@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crane-config-tool/static/css/main.406a123c.css",
+    "main.js": "/crane-config-tool/static/js/main.13818ebf.js",
+    "index.html": "/crane-config-tool/index.html",
+    "main.406a123c.css.map": "/crane-config-tool/static/css/main.406a123c.css.map",
+    "main.13818ebf.js.map": "/crane-config-tool/static/js/main.13818ebf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.406a123c.css",
+    "static/js/main.13818ebf.js"
+  ]
+}
